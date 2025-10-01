@@ -2,4 +2,4 @@
 
 Presentation about simplicity in programming and software architecture by Scott Hutchings.
 
-Go to [slides](slides)
+Go to [slides](slides/01.md)
