@@ -1,5 +1,5 @@
-# BYU DevSpark 2025 - Simple > Clever session
+# Simple > Clever
+by Scott Hutchings
 
-Presentation about simplicity in programming and software architecture by Scott Hutchings.
+2025 BYU DevSpark Conference
 
-Go to [slides](slides/01.md)
